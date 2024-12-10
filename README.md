@@ -1,1 +1,1 @@
-<h1>Atividade di Curso Descodificadas Trilha 2 - GRID/h1>
+<h1>Atividade do Curso Descodificadas Trilha 2 - GRID</h1>
